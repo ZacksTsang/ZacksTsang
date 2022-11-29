@@ -4,7 +4,8 @@
 I am a full stack developer from China
 
 - 🔭 I’m currently working on Zhu Hai
-- 🌱 I’m currently learning Rust, K8s, quarkus, etc.
+- 🌱 I’m currently learning Rust, K8s, Quarkus
+- ⚡️  Learning
 
 
 

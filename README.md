@@ -11,6 +11,7 @@ I am a full stack developer from China
 ### Languages
 ![](https://img.shields.io/badge/-Spring-17A589?style=flat-square&logo=spring&logoColor=white&labelColor=48C9B0)
 ![](https://img.shields.io/badge/-Clojure-F39C12?style=flat-square&logo=clojure&logoColor=9C640C&labelColor=F8C471&color=F5B041)
+![](https://img.shields.io/badge/-Rust-0B1C27?style=flat-square&logo=rust&labelColor=fff&logoColor=000)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&labelColor=69A8D1&color=2874A6)
 ![](https://img.shields.io/badge/-Golang-2F97C6?style=flat-square&logo=go&logoColor=2F97C6&labelColor=fff)
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&labelColor=27AE60)

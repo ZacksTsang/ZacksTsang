@@ -26,3 +26,7 @@ I am a full stack developer from China
 ![](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle&labelColor=02303A&color=566573)
 ![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&labelColor=fff&color=8DD6F9)
 ![](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&labelColor=fff&color=5499C7)
+
+
+### Cloud
+![](https://img.shields.io/badge/-Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibabacloud&labelColor=fff&logoColor=FF6A00)

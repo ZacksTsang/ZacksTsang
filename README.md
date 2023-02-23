@@ -6,7 +6,7 @@ I am a full stack developer from China
 - 🔭 I’m currently working on Zhu Hai
 - 🌱 I’m currently learning Rust, K8s, Quarkus
 - 🌟 Cartoon lover.
-- ⚡️  To Be or Not To Be.
+- ⚡️  Simple for everything.
 
 
 ### Languages

@@ -16,6 +16,7 @@ I am a full stack software engineer from China
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&labelColor=69A8D1&color=2874A6)
 ![](https://img.shields.io/badge/-Golang-2F97C6?style=flat-square&logo=go&logoColor=2F97C6&labelColor=E2E2E2)
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&labelColor=27AE60)
+![](https://img.shields.io/badge/-TypeScript-884A39?style=flat-square&logo=TypeScript&labelColor=fff&logoColor=30A2FF)
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=E2E2E2&color=61DAFB)
 

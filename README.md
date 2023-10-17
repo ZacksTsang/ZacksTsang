@@ -31,11 +31,12 @@ I am a full stack software engineer from China
 
 ### Databases
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&labelColor=E2E2E2)
-![](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&labelColor=E2E2E2&logoColor=000)
+![](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
 
 ### Big Data
 ![](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&labelColor=E2E2E2)
+![](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&labelColor=E2E2E2&logoColor=000)
 
 
 ### Cloud
